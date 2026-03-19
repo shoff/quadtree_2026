@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuadtreeComponentLib/QuadtreeComponentLib.csproj" />
+  <Project Path="TankComponent/TankComponent.csproj" />
+  <Project Path="TestQuadtree1/TestQuadtree1.csproj" />
+</Solution>

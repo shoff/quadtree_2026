@@ -1,0 +1,25 @@
+## .NET / MonoGame
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+
+## MonoGame Content Builder
+TestQuadtree1/Content/bin/
+TestQuadtree1/Content/obj/
+
+## macOS
+.DS_Store
+._*
+
+## IDE
+.vs/
+.vscode/
+*.idea/
+
+## dotnet tools
+.config/dotnet-tools.json
